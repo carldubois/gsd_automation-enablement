@@ -1,11 +1,11 @@
 ### GSD Automation Enablement Syllabus 
 
-Prerequisites (Getting Started) 
-
+#### Prerequisites (Getting Started) 
+```
 - Install Visual Studio Code
 - Install Docker Desktop 
 - Install Git
-
+```
 ```
 Week 1: Development Environments (on boarding) 
 •	(IDE) Visual studio code - https://code.visualstudio.com/
