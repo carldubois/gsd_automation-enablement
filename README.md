@@ -11,8 +11,8 @@ Week 1: Development Environments (on boarding)
 •	(IDE) Visual studio code - https://code.visualstudio.com/
 •	Python virtual environments 
 •	Visual Studio integrations and plugins – market place 
-  Homework – Install git, docker, python, markdown 
-  Extra Credit – Install Jinja template, data (csv, yaml, json, xml)
+    Homework – Install git, docker, python, markdown 
+    Extra Credit – Install Jinja template, data (csv, yaml, json, xml)
 ```
 ```
 Week 2: Github (ATC standardize)
